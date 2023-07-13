@@ -1,4 +1,4 @@
-(footprint "Arduino_PinHeader_1x06_P2.54mm_Vertical" (version 20211014) (generator pcbnew)
+(footprint "Arduino_PinSocket_1x06_P2.54mm_Vertical" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 59FED5CC)
   (descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
@@ -37,7 +37,7 @@
   (pad "4" thru_hole circle (at 0 7.62) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask) (tstamp ed05ba03-1e59-4764-8823-f63056f52720))
   (pad "5" thru_hole circle (at 0 10.16) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask) (tstamp 3361c9a3-c4cc-47dc-ac72-a9c418921124))
   (pad "6" thru_hole circle (at 0 12.7) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask) (tstamp 30d686b6-b79d-4837-a792-ba6d6ea1579e))
-  (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/1x6.STEP"
+  (model "${KIPRJMOD}/3DModels/1x6.STEP"
     (offset (xyz -1.3 1.3 8.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

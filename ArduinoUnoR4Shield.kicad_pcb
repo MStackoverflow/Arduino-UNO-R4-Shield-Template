@@ -168,7 +168,7 @@
       (net 2 "unconnected-(U1-Pad2)") (pinfunction "GND") (pintype "power_out") (tstamp 801f4437-f07b-4975-8457-99342066ed28))
     (pad "3" thru_hole circle (at 0 5.08 90) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask)
       (net 3 "unconnected-(U1-Pad3)") (pinfunction "VRTC") (pintype "power_in") (tstamp aca35c14-f76f-4b9d-8b12-7510c61048a3))
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/pin header female 2.54mm_0.1in.STEP"
+    (model "${KIPRJMOD}/3DModels/pin header female 2.54mm_0.1in.STEP"
       (offset (xyz -1.3 1.3 8.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -225,12 +225,12 @@
       (net 22 "unconnected-(U5-Pad5)") (pinfunction "RESET") (pintype "bidirectional") (tstamp 784fcb3e-9557-48d8-8dfe-c85dfe366a91))
     (pad "6" thru_hole circle (at 2.54 5.08) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask)
       (net 23 "unconnected-(U5-Pad6)") (pinfunction "GND") (pintype "power_out") (tstamp 766ea295-e3af-47e5-82ea-76f6a2820d55))
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/pin header female 2.54mm_0.1in.STEP"
+    (model "${KIPRJMOD}/3DModels/pin header female 2.54mm_0.1in.STEP"
       (offset (xyz 1.3 1.3 -10))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 -180 0))
     )
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/pin header female 2.54mm_0.1in.STEP"
+    (model "${KIPRJMOD}/3DModels/pin header female 2.54mm_0.1in.STEP"
       (offset (xyz 3.7 1.3 -10))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 -180 0))
@@ -312,7 +312,7 @@
       (net 46 "unconnected-(U7-Pad17)") (pinfunction "D1/TX0") (pintype "bidirectional") (tstamp cd99298e-a11d-42ff-a3a6-3158b73013aa))
     (pad "18" thru_hole circle (at 0 17.78 90) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask)
       (net 47 "unconnected-(U7-Pad18)") (pinfunction "D0/RX0") (pintype "bidirectional") (tstamp b1123e2e-ff68-41a3-8042-a49f65a101dc))
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/pin_header_female_2.54mm_0.1in.STEP"
+    (model "${KIPRJMOD}/3DModels/pin_header_female_2.54mm_0.1in.STEP"
       (offset (xyz 1.3 1.3 8.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -375,7 +375,7 @@
       (net 32 "unconnected-(U6-Pad9)") (pinfunction "~D9") (pintype "bidirectional") (tstamp 76488d93-0e2c-4493-92e7-7d4a28b62f62))
     (pad "10" thru_hole circle (at 0 22.86 90) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask)
       (net 33 "unconnected-(U6-Pad10)") (pinfunction "D8") (pintype "bidirectional") (tstamp b69334c5-b5cb-4f53-8c94-e05fd6649be0))
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/1x10.STEP"
+    (model "${KIPRJMOD}/3DModels/1x10.STEP"
       (offset (xyz -1.2 1.3 8.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -453,7 +453,7 @@
       (net 38 "unconnected-(U3-Pad13)") (pinfunction "A4") (pintype "bidirectional") (tstamp aaff15d2-1e25-4b32-8859-5cfabaca500c))
     (pad "14" thru_hole circle (at 0 12.7 90) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask)
       (net 39 "unconnected-(U3-Pad14)") (pinfunction "A5") (pintype "bidirectional") (tstamp 4d5b7c80-9d78-48b0-996f-cc3a0476894c))
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/1x6.STEP"
+    (model "${KIPRJMOD}/3DModels/1x6.STEP"
       (offset (xyz -1.3 1.3 8.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -512,7 +512,7 @@
       (net 10 "unconnected-(U2-Pad7)") (pinfunction "GND") (pintype "power_out") (tstamp 0f971533-f91d-487a-a14e-89e5b8d7de71))
     (pad "8" thru_hole circle (at 0 17.78 90) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask)
       (net 11 "unconnected-(U2-Pad8)") (pinfunction "VIN") (pintype "power_out") (tstamp 29af5d8d-f755-4b3f-8cf7-d54e70a87df3))
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/pin_header_female_2.54mm_0.1in.STEP"
+    (model "${KIPRJMOD}/3DModels/pin_header_female_2.54mm_0.1in.STEP"
       (offset (xyz 1.3 1.3 8.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -592,12 +592,12 @@
       (net 16 "unconnected-(U4-Pad5)") (pinfunction "GPIO44/RXD0") (pintype "bidirectional") (tstamp bbf86fdb-ecb2-4ea1-9130-f7347e278f24))
     (pad "6" thru_hole circle (at 2.54 5.08 270) (size 1.422 1.422) (drill 0.85) (layers *.Cu *.Mask)
       (net 17 "unconnected-(U4-Pad6)") (pinfunction "GND") (pintype "power_out") (tstamp 3f1bc9f4-c1de-4e69-b97f-05675c98fc7d))
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/pin header female 2.54mm_0.1in.STEP"
+    (model "${KIPRJMOD}/3DModels/pin header female 2.54mm_0.1in.STEP"
       (offset (xyz 1.3 1.3 -10))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 -180 0))
     )
-    (model "${KIPRJMOD}/pin-header-female-1.snapshot.13/pin header female 2.54mm_0.1in.STEP"
+    (model "${KIPRJMOD}/3DModels/pin header female 2.54mm_0.1in.STEP"
       (offset (xyz 3.7 1.3 -10))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 -180 0))
