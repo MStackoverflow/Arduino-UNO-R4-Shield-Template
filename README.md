@@ -8,12 +8,15 @@ Based on official Arduino UNO R4 CAD.
 ![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/5090f007-6038-4332-898c-bb333dbb85ca)
 
 ## PCB View
-![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/1f850703-3dd5-4841-a0d5-444bb851edfd)
+![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/a1dd9856-9115-4397-ae11-97382e2886a5)
+
 
 
 ## 3D View
-![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/62811265-36d5-49d9-b787-7724e3a6344a)
+![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/00e0eb9c-24a7-4dcb-b76c-c6339f422537)
 
-![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/734cff69-6ebe-470a-a9f9-ffb4985eada7)
+![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/e806ddd0-cd01-46ad-b03f-08540c588520)
 
-![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/3e3965d1-9c56-4ce8-9fcd-295fe8139e04)
+![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/9bf3d436-4b67-45c4-bd6a-e4a0396a5d5e)
+
+
