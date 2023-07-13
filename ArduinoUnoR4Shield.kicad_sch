@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Arduino UNO R4 Shield Template SCH")
+    (title "Arduino UNO R4 Proto Shield  Template SCH")
     (date "2023-07-13")
     (rev "1.0")
     (company "MStackoverflow")
