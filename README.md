@@ -17,3 +17,5 @@ Based on official Arduino UNO R4 CAD.
 ![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/734cff69-6ebe-470a-a9f9-ffb4985eada7)
 
 ![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/3e3965d1-9c56-4ce8-9fcd-295fe8139e04)
+
+![image](https://github.com/MStackoverflow/Arduino-UNO-R4-Shield-Template/assets/137069674/132ab9c3-0997-49e3-a216-75cf31df4c05)
